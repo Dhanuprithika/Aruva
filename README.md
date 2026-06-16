@@ -74,7 +74,10 @@ An AI-powered agricultural marketplace and decision-support platform that connec
 
 ## Documentation
 
-Detailed project documentation, architecture diagrams, database design, API documentation, and development reports will be available in the `docs/` directory.
+Detailed project documentation, architecture diagrams, database design, API documentation, and development reports are available below:
+
+- [Project Report](docs/Project_Report.md)
+
 
 ---
 
