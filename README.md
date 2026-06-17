@@ -77,6 +77,7 @@ An AI-powered agricultural marketplace and decision-support platform that connec
 Detailed project documentation, architecture diagrams, database design, API documentation, and development reports are available below:
 
 - [Project Report](docs/Project_Report.md)
+- [Architecture Design](docs/Architecture.md)
 
 
 ---
